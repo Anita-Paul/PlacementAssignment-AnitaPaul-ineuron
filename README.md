@@ -1,1 +1,4 @@
-# PlacementAssignment-AnitaPaul-ineuron
+# PlacementAssignment-ineuron
+#Python
+#machine learning
+#stats
